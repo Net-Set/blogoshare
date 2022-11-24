@@ -1,0 +1,22 @@
+/*
+Theme Name: Blogosphere Child
+Theme URI: http://cmsmasters.net/blogosphere-child/
+Author: cmsmasters
+Author URI: http://cmsmasters.net/
+Description: Blogosphere Child Theme
+Template: blogosphere
+Version: 1.0.0
+License:
+License URI:
+Text Domain: blogosphere-child
+Tags: one-column, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+*/
+
+
+.page-id-13700 #header {
+	display:none !important;
+}
+
+.page-id-13700 #middle {
+	padding-top:0 !important;
+}
